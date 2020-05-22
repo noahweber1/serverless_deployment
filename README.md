@@ -1,2 +1,2 @@
 # serverless_deployment
-Materials for serverless deplyoment (UDEMY course)
+Materials for serverless deployment (UDEMY course)
